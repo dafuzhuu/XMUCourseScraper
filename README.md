@@ -19,3 +19,5 @@ username.send_keys('username') # 填入用户名
 # ...
 password.send_keys('password') # 填入密码
 ```
+
+建议使用`.ipynb`文件，卡退或被管理员踢出去后方便继续
